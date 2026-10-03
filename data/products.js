@@ -656,5 +656,21 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id: "bc2847e9-5323-403f-b7cf-57fde04sagar",
+    image: "images/products/umbrella.jpg",
+    name: "Umbrella fully-durable",
+    rating: {
+      stars: 4,
+      count:5326
+    },
+    priceCents: 5990,
+    keywords: [
+      "umbrella",
+      "rain",
+      "water proff",
+      "home"
+    ]
   }
 ];
